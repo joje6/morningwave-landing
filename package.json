@@ -1,0 +1,9 @@
+{
+  "name": "morningwave-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "모닝웨이브 커피 브랜드 정적 랜딩 페이지",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}
